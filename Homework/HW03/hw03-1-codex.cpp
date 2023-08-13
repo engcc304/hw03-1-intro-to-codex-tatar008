@@ -1,8 +1,9 @@
+//TODO: #8 Arrange this C coding into CODEX pattern.
 #include <stdio.h>
 
 int main() {
     int a = 10;
-    int b = 20, c = 30, d = 40; 
+    int b = 20, c = 30, d = 40 ; 
 
     printf( "This is %d + %d = %d ", a, b, a + b );
 
